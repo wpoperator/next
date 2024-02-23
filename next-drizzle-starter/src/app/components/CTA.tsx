@@ -1,6 +1,6 @@
 export default function CTA() {
     return (
-        <section className="bg-white dark:bg-gray-900">
+        <section className="bg-white dark:bg-lime-400">
             <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
                 <div className="max-w-screen-md">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"> We find what brings us together.</h2>
